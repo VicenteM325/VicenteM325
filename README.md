@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicentem325&label=Profile%20views&color=0e75b6&style=flat" alt="vicentem325" /> </p>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **PHP**
 
 <p align="left">
 </p>
